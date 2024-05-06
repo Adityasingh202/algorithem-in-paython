@@ -1,1 +1,1 @@
-# algorithem-in-paython
+# algorithem-in-python
