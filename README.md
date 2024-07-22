@@ -1,1 +1,1 @@
-# Algorithem-in-python
+# Algoritham-in-python
